@@ -1,0 +1,15 @@
+[
+{
+  "modid": "redstonesandwich",
+  "name": "Redstone Sandwich",
+  "description": "Made as a joke for whatshisname.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kalman98"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
